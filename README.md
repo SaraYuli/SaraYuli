@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá, eu sou a Sara Yuli 👋
 
+Amante de gatos 🐱 e estudante de Análise e Desenvolvimento de sistema 💻.
+estou sempre em busca de inovação e conhecimento para me aprimorar e crescer na minha área. Amo resolver problemas complexos e transformar ideias em realidade. Quando não estou codando, você pode me encontrar lendo sobre as últimas tendências em tech ou brincando com meu gato. 
 <!--
 **SaraYuli/SaraYuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
