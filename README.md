@@ -4,11 +4,29 @@ Amante de gatos 🐱 e estudante de Análise e Desenvolvimento de sistema 💻.
 Estou sempre em busca de inovação e conhecimento para me aprimorar e crescer na minha área. Amo resolver problemas complexos e transformar ideias em realidade. Quando não estou codando, você pode me encontrar lendo sobre as últimas tendências em tech ou brincando com meu gato. 
 
 <hr>
+
   
-<div>
-<a href= "https://www.linkedin.com/in/sara-yuli-balieiro-4669211bb/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank"></a></div>
-<a href= "sarayuli@gmail.com" target= "_blank" ><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a></div>
-<a href= "https://discord.com/channels/@me" target= "_blank"><img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target= "_blank"></a>
+<div style="display: flex;
+justify-content: center; 
+  aling-items:center;"> 
+  
+<a href="https://www.linkedin.com/in/sara-yuli-balieiro-4669211bb/" target="_blank" style="margin-right:10px;">
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" widtd="30" height="30">
+
+</a> 
+
+  
+<a href= "sarayuli@gmail.com" target="_blank" style="margin-right:10px;">
+<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" widtd="30" height="30">
+  
+</a> 
+
+ <a href= "https://discord.com/channels/@me" target= "_blank"  style="margin-right:10px;">
+ <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" widtd="30" height="30">
+ 
+ </a> 
+ 
+ </div>
 
 
 <!--
