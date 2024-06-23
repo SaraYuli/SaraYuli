@@ -16,7 +16,7 @@ justify-content: center;
 </a> 
 
   
-<a href= "sarayuli@gmail.com" target="_blank" style="margin-right:10px;">
+<a href= "mailto:sarayuli@gmail.com" target="_blank" style="margin-right:10px;">
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" widtd="30" height="30">
   
 </a> 
