@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A1C4FD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Sara+Yuli!👋;Em+treinamento+para+me+tornar+a+maior;"detetive+sensacional/+gênio+do+código!😄";Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarayuli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarayuli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarayuli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarayuli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=nightowl&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarayuli&radius=16&theme=nightowl&area=true&order=5" height="377" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img align="right" height="225" src="https://i.gifer.com/7d1.gif"  />
+<img align="right" height="227" src="https://i.gifer.com/7d1.gif"  />
 
 ###
 
@@ -25,16 +25,12 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="39" alt="discord logo"  />
   </a>
-  <a href="[sarayuli04](https://www.instagram.com/04b.felipe/)" target="_blank">
+  <a href="https://www.instagram.com/04b.felipe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="39" alt="instagram logo"  />
-  </a>
-  <a href="sarayuli@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="39" alt="gmail logo"  />
   </a>
 </div>
 
 ###
-
 
 
 
