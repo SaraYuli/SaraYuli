@@ -25,7 +25,7 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="39" alt="discord logo"  />
   </a>
-  <a href="sarayuli04" target="_blank">
+  <a href="[sarayuli04](https://www.instagram.com/04b.felipe/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="39" alt="instagram logo"  />
   </a>
   <a href="sarayuli@gmail.com" target="_blank">
